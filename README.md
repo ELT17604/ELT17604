@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=60&duration=1500&pause=2000&center=true&multiline=true&width=500&height=150&lines=ELT17604;CyistElt)](https://git.io/typing-svg)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ELT17604&count_private=true&show_icons=true&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ELT17604&count_private=true&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ELT17604&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
